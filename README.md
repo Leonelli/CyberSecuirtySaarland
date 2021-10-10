@@ -4,11 +4,14 @@
 
 ### Core Lectures
 [Security](https://cms.cispa.saarland/sec2122/)
+
 [Software Engineering](https://cms.sic.saarland/se_2122/)
+
 [Operating Systems](https://courses.mpi-sws.org/os-ws21/)
 
 ### Advanced Lectures Cybersecurity    
 [Side-Channel Attacks and Defenses](https://cms.cispa.saarland/scad2122/)
+
 [Systems Security](https://cms.cispa.saarland/syssec/)
 
 ### Seminars Cybersecurity  
