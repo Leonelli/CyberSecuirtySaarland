@@ -2,6 +2,8 @@
 
 ## [Master CyberSecurity LSF](https://www.lsf.uni-saarland.de/qisserver/rds?state=wtree&search=1&trex=total&root120212=300726|294085|299760|297085|307396&P.vx=kurz)
 
+## First Semester
+
 ### Core Lectures
 [Security](https://cms.cispa.saarland/sec2122/)
 
