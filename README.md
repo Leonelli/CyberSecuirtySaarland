@@ -16,6 +16,8 @@
 
 [Systems Security](https://cms.cispa.saarland/syssec/)
 
+[Security Testing](https://cms.cispa.saarland/fuzzing2122/)
+
 ### Seminars Cybersecurity  
 [Seminar registration status](https://seminars.cs.uni-saarland.de/seminars2122/registration/status)
 
