@@ -22,4 +22,5 @@
 [Seminar registration status](https://seminars.cs.uni-saarland.de/seminars2122/registration/status)
 
 ### Freely choosen Points    
-German?
+[German](https://www.szsb.uni-saarland.de/kursangebot.html)
+
