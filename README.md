@@ -5,9 +5,8 @@
 ## First Semester
 
 ### Core Lectures
-[Security](https://cms.cispa.saarland/sec2122/)
 
-[Software Engineering](https://cms.sic.saarland/se_2122/)
+[Verification](https://cms.cispa.saarland/ver2122/)
 
 [Operating Systems](https://courses.mpi-sws.org/os-ws21/)
 
@@ -23,4 +22,6 @@
 
 ### Freely choosen Points    
 [German](https://www.szsb.uni-saarland.de/kursangebot.html)
+
+[Spanish]()
 
