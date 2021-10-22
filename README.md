@@ -18,7 +18,7 @@
 [Security Testing](https://cms.cispa.saarland/fuzzing2122/)
 
 ### Seminars Cybersecurity  
-[Seminar registration status](https://seminars.cs.uni-saarland.de/seminars2122/registration/status)
+[Current Topics in Systems Security](https://cms.cispa.saarland/syssecseminar21/)
 
 ### Freely choosen Points    
 [German](https://www.szsb.uni-saarland.de/kursangebot.html)
