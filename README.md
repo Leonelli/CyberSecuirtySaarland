@@ -23,5 +23,5 @@
 ### Freely choosen Points    
 [German](https://www.szsb.uni-saarland.de/kursangebot.html)
 
-[Spanish]()
+[Spanish](https://m1.szsb.uni-saarland.de/moodle/m1/course/view.php?id=2641)
 
