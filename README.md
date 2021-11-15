@@ -8,8 +8,6 @@
 
 [Verification](https://cms.cispa.saarland/ver2122/)
 
-[Operating Systems](https://courses.mpi-sws.org/os-ws21/)
-
 ### Advanced Lectures Cybersecurity    
 [Side-Channel Attacks and Defenses](https://cms.cispa.saarland/scad2122/)
 
