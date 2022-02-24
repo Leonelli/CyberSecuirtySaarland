@@ -30,3 +30,11 @@
 ## [Master CyberSecurity Lecture SoSe 2022 LSF](https://www.lsf.uni-saarland.de/qisserver/rds?state=wtree&search=1&trex=total&root120221=320944|310559|318658|309692&P.vx=kurz)
 
 ## Second Semester
+
+### Core Lectures
+
+[Cryptography]()
+
+### Advanced Lectures Cybersecurity    
+
+[Foundations of Web Security](https://cms.cispa.saarland/fows22/)
