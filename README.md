@@ -38,3 +38,5 @@
 ### Advanced Lectures Cybersecurity    
 
 [Foundations of Web Security](https://cms.cispa.saarland/fows22/)
+
+[Physical-Layer Security](https://cms.cispa.saarland/physec_22/)
