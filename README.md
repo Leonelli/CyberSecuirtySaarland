@@ -40,3 +40,7 @@
 [Foundations of Web Security](https://cms.cispa.saarland/fows22/)
 
 [Physical-Layer Security](https://cms.cispa.saarland/physec_22/)
+
+### Block Lecure
+
+[Hand on Networks](https://lms.sulb.uni-saarland.de/moodle/course/index.php?categoryid=2806)
