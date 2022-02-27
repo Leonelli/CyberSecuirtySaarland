@@ -13,7 +13,7 @@
 ### Advanced Lectures Cybersecurity    
 [Side-Channel Attacks and Defenses](https://cms.cispa.saarland/scad2122/)
 
-[Systems Security](https://cms.cispa.saarland/syssec/)
+[Systems Security](https://cms.cispa.saarland/syssec/) ✅
 
 [Security Testing](https://cms.cispa.saarland/fuzzing2122/) ✅
 
