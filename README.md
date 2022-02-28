@@ -11,18 +11,18 @@
 [Verification](https://cms.cispa.saarland/ver2122/) ❌
 
 ### Advanced Lectures Cybersecurity    
-[Side-Channel Attacks and Defenses](https://cms.cispa.saarland/scad2122/)
+[Side-Channel Attacks and Defenses](https://cms.cispa.saarland/scad2122/) [6CPs]
 
-[Systems Security](https://cms.cispa.saarland/syssec/) ✅
+[Systems Security](https://cms.cispa.saarland/syssec/) [6CPs]✅
 
-[Security Testing](https://cms.cispa.saarland/fuzzing2122/) ✅
+[Security Testing](https://cms.cispa.saarland/fuzzing2122/) [6CPs]✅
 
 ### Seminars Cybersecurity  
-[Current Topics in Systems Security](https://cms.cispa.saarland/syssecseminar21/) - [Reviews System](https://cispa-syssec21.hotcrp.com)
+[Current Topics in Systems Security](https://cms.cispa.saarland/syssecseminar21/) - [Reviews System](https://cispa-syssec21.hotcrp.com) [7CPs]
 
 ### Freely choosen Points    
 
-[Spanish](https://m1.szsb.uni-saarland.de/moodle/m1/course/view.php?id=2641) ✅
+[Spanish](https://m1.szsb.uni-saarland.de/moodle/m1/course/view.php?id=2641) [6CPs]✅
 
 
 ## [Master CyberSecurity Lecture SoSe 2022 LSF](https://www.lsf.uni-saarland.de/qisserver/rds?state=wtree&search=1&trex=total&root120221=320944|310559|318658|309692&P.vx=kurz)
