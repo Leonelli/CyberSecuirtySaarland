@@ -18,7 +18,7 @@
 [Security Testing](https://cms.cispa.saarland/fuzzing2122/) [6CPs]✅
 
 ### Seminars Cybersecurity  
-[Current Topics in Systems Security](https://cms.cispa.saarland/syssecseminar21/) - [Reviews System](https://cispa-syssec21.hotcrp.com) [7CPs]
+[Current Topics in Systems Security](https://cms.cispa.saarland/syssecseminar21/) - [Reviews System](https://cispa-syssec21.hotcrp.com) [7CPs]✅
 
 ### Freely choosen Points    
 
