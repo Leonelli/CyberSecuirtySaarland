@@ -39,6 +39,8 @@
 
 [Physical-Layer Security](https://cms.cispa.saarland/physec_22/)
 
+[Secure Web Development](https://cms.cispa.saarland/swd_2022/)
+
 ### Block Lecure
 
 [Hands on Networking](https://lms.sulb.uni-saarland.de/moodle/course/index.php?categoryid=2806)
