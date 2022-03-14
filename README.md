@@ -31,16 +31,16 @@
 
 ### Core Lectures
 
-[Cryptography]()
+[Cryptography]() [9CPs]
 
 ### Advanced Lectures Cybersecurity    
 
-[Foundations of Web Security](https://cms.cispa.saarland/fows22/)
+[Foundations of Web Security](https://cms.cispa.saarland/fows22/) [6CPs]
 
-[Physical-Layer Security](https://cms.cispa.saarland/physec_22/)
+[Physical-Layer Security](https://cms.cispa.saarland/physec_22/) [6CPs]
 
-[Secure Web Development](https://cms.cispa.saarland/swd_2022/)
+[Secure Web Development](https://cms.cispa.saarland/swd_2022/) [6CPs]
 
 ### Block Lecure
 
-[Hands on Networking](https://lms.sulb.uni-saarland.de/moodle/course/index.php?categoryid=2806)
+[Hands on Networking](https://lms.sulb.uni-saarland.de/moodle/course/index.php?categoryid=2806) [?CPs]
