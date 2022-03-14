@@ -43,4 +43,7 @@
 
 ### Block Lecure
 
-[Hands on Networking](https://lms.sulb.uni-saarland.de/moodle/course/index.php?categoryid=2806) [?CPs]
+[Hands on Networking moodle](https://lms.sulb.uni-saarland.de/moodle/course/index.php?categoryid=2806)
+
+
+[Hands on Networking CMS](https://cms.sic.saarland/hon/) [6CPs]
