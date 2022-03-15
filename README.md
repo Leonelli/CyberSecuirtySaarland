@@ -11,7 +11,7 @@
 [Verification](https://cms.cispa.saarland/ver2122/) [9CPs]❌
 
 ### Advanced Lectures Cybersecurity    
-[Side-Channel Attacks and Defenses](https://cms.cispa.saarland/scad2122/) [6CPs]
+[Side-Channel Attacks and Defenses](https://cms.cispa.saarland/scad2122/) [6CPs]✅
 
 [Systems Security](https://cms.cispa.saarland/syssec/) [6CPs]✅
 
