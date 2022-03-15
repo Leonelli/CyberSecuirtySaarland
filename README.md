@@ -24,7 +24,7 @@
 
 [Spanish](https://m1.szsb.uni-saarland.de/moodle/m1/course/view.php?id=2641) [6CPs]✅
 
-#### Total credits: 31
+#### ==> Total credits: 31
 
 
 
