@@ -24,6 +24,9 @@
 
 [Spanish](https://m1.szsb.uni-saarland.de/moodle/m1/course/view.php?id=2641) [6CPs]✅
 
+# Total credits: 31
+
+
 
 ## [Master CyberSecurity Lecture SoSe 2022 LSF](https://www.lsf.uni-saarland.de/qisserver/rds?state=wtree&search=1&trex=total&root120221=320944|310559|318658|309692&P.vx=kurz)
 
