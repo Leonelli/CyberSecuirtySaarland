@@ -36,6 +36,8 @@
 
 [Cryptography](https://cms.cispa.saarland/crypto22) [9CPs]
 
+[Machine Learning](https://cms.cispa.saarland/ml22/) [9CPs]
+
 ### Advanced Lectures Cybersecurity    
 
 [Foundations of Web Security](https://cms.cispa.saarland/fows22/) [6CPs]
@@ -46,7 +48,7 @@
 
 ### Block Lecure
 
-[Hands on Networking moodle](https://lms.sulb.uni-saarland.de/moodle/course/index.php?categoryid=2806)
+[Hands on Networking moodle](https://lms.sulb.uni-saarland.de/moodle/course/index.php?categoryid=2806) --> expired?
 
 
 [Hands on Networking CMS](https://cms.sic.saarland/hon/) [6CPs]
