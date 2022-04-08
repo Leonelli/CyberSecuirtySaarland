@@ -61,6 +61,10 @@
 
 ~~[Hands on Networking CMS](https://cms.sic.saarland/hon/) [6CPs]~~
 
+### Freely choosen Points    
+
+[Work at CISPA](https://cispa.de/de) [6CPs]
+
 
 #### ***&#8594; Semester credits: 36***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ***&#8594; Total credits: 67/78 - 67/120***
 
