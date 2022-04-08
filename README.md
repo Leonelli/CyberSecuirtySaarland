@@ -10,21 +10,21 @@
 
 ## First Semester
 
-### Core Lectures
+### Core Lectures (0/27)
 
 ~~[Verification](https://cms.cispa.saarland/ver2122/) [9CPs]❌~~
 
-### Advanced Lectures Cybersecurity    
+### Advanced Lectures Cybersecurity (18/30)    
 [Side-Channel Attacks and Defenses](https://cms.cispa.saarland/scad2122/) [6CPs]✅
 
 [Systems Security](https://cms.cispa.saarland/syssec/) [6CPs]✅
 
 [Security Testing](https://cms.cispa.saarland/fuzzing2122/) [6CPs]✅
 
-### Seminars Cybersecurity  
+### Seminars Cybersecurity (7/7)
 [Current Topics in Systems Security](https://cms.cispa.saarland/syssecseminar21/) - [Reviews System](https://cispa-syssec21.hotcrp.com) [7CPs]✅
 
-### Freely choosen Points    
+### Freely choosen Points (6/14)
 
 [Spanish](https://m1.szsb.uni-saarland.de/moodle/m1/course/view.php?id=2641) [6CPs]✅
 
@@ -36,7 +36,7 @@
 
 ## Second Semester
 
-### Core Lectures
+### Core Lectures (3 to take)
 
 [Cryptography](https://cms.cispa.saarland/crypto22) [9CPs]
 
@@ -46,7 +46,7 @@
 
 [Embedded Systems](https://cms.sic.saarland/es22/students/view) [9CPs]
 
-### Advanced Lectures Cybersecurity    
+### Advanced Lectures Cybersecurity (2 to take)
 
 [Foundations of Web Security](https://cms.cispa.saarland/fows22/) [6CPs]
 
@@ -61,7 +61,7 @@
 
 ~~[Hands on Networking CMS](https://cms.sic.saarland/hon/) [6CPs]~~
 
-### Freely choosen Points    
+### Freely choosen Points (12/14)
 
 [Work at CISPA](https://cispa.de/de) [6CPs]
 
