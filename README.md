@@ -10,7 +10,7 @@
 
 ### Core Lectures
 
-[Verification](https://cms.cispa.saarland/ver2122/) [9CPs]❌
+~~[Verification](https://cms.cispa.saarland/ver2122/)~~ [9CPs]❌
 
 ### Advanced Lectures Cybersecurity    
 [Side-Channel Attacks and Defenses](https://cms.cispa.saarland/scad2122/) [6CPs]✅
@@ -26,7 +26,7 @@
 
 [Spanish](https://m1.szsb.uni-saarland.de/moodle/m1/course/view.php?id=2641) [6CPs]✅
 
-#### ==> Total credits: 31
+#### ==> *** Total credits: 31 ***
 
 
 
@@ -50,11 +50,13 @@
 
 ### Block Lecure
 
-[Hands on Networking moodle](https://lms.sulb.uni-saarland.de/moodle/course/index.php?categoryid=2806) --> expired?
+~~[Hands on Networking moodle](https://lms.sulb.uni-saarland.de/moodle/course/index.php?categoryid=2806)~~
 
 
-[Hands on Networking CMS](https://cms.sic.saarland/hon/) [6CPs]
+~~[Hands on Networking CMS](https://cms.sic.saarland/hon/)~~ [6CPs]
 
+
+#### ==> *** Total credits: 36 ***
 
 
 ## Links Saarbrucken
