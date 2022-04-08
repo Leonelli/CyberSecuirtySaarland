@@ -46,8 +46,6 @@
 
 [Artificial Intelligence](https://cms.sic.saarland/ai_22/students/view) [9CPs]
 
-**[Embedded Systems](https://cms.sic.saarland/es22/students/view)** [9CPs]
-
 ### Advanced Lectures Cybersecurity (2 to take)
 
 [Foundations of Web Security](https://cms.cispa.saarland/fows22/) [6CPs]
