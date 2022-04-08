@@ -2,6 +2,8 @@
 
 [Exam Repo](https://cs.fs.uni-saarland.de/?page_id=2904)
 
+[Grade Scale Converesion](https://www.th-nuernberg.de/fileadmin/zentrale-einrichtungen/szs/stm/stm_bilder/Studienangebot/Studiengaenge/International_Marketing/Notenumrechnungstabelle.pdf)
+
 ## [Master CyberSecurity Lecture WiSe 2022 LSF](https://www.lsf.uni-saarland.de/qisserver/rds?state=wtree&search=1&trex=total&root120212=300726|294085|299760|297085|307396&P.vx=kurz)
 
 ## First Semester
