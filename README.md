@@ -1,5 +1,7 @@
 # CyberSecurity Master - Saarland University
 
+[WebSite Master] (https://www.uni-saarland.de/en/study/programmes/master/cybersecurity.html)
+
 [Exam Repo](https://cs.fs.uni-saarland.de/?page_id=2904)
 
 [Grade Scale Converesion](https://www.th-nuernberg.de/fileadmin/zentrale-einrichtungen/szs/stm/stm_bilder/Studienangebot/Studiengaenge/International_Marketing/Notenumrechnungstabelle.pdf)
@@ -72,4 +74,14 @@
 [Rai Tedesca](https://www.tagesschau.de/)
 
 [Saarland Radio](https://www.sr.de/sr/livestream/sr1/index.html#)
+
+
+## Infomration Credits Partition
+
+- 27 graded credits from the core lecture courses offered. In this section, the two core lectures 'Cryptography' and 'Security' are compulsory, provided that no earlier academic coursework from previous studies can be accepted as equivalents.
+- At least 30 and at most 34 graded credits shall be earned from the core lectures, the advanced lectures on cybersecurity or the seminars on cybersecurity. A maximum of one additional seminar and one additional core lecture may be included in this section.
+- 7 graded credits from the seminars offered on cybersecurity.
+- 12 graded credits from the Master’s seminar.
+- 30 graded credits from the Master's thesis.
+- At least 14 ungraded credits from selectable modules from the following areas: (a.) Master’s level practical assignments or projects, (b.) Selectable modules from the area of the core lectures, advanced lectures in Cybersecurity or seminars in Cybersecurity or the corresponding modules of the Master's programme in Computer Science, (c.) Tutoring and supervising undergraduate students in exercise and problem-solving classes (d.) Language courses, (e.) Soft skills seminar, (f.) Work placement or internship in industry for which an application was submitted to and approved by the Examination Board, (g.) Modules for which an application has been submitted to and approved by the Examination Board, for example student activities (particularly assistance with university-related administrative services) or attendance at courses teaching as key career skills.
 
