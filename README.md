@@ -40,6 +40,8 @@
 
 **[Cryptography](https://cms.cispa.saarland/crypto22)** [9CPs] **(Mandatory!)**
 
+**[Data Network](https://inet-teaching.mpi-inf.mpg.de/dn_22/)** [9CPs]
+
 **[Machine Learning](https://cms.cispa.saarland/ml22/)** [9CPs]
 
 [Artificial Intelligence](https://cms.sic.saarland/ai_22/students/view) [9CPs]
