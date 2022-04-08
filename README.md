@@ -66,7 +66,7 @@
 [Work at CISPA](https://cispa.de/de) [6CPs]
 
 
-#### ***&#8594; Semester credits: 45***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ***&#8594; Total credits: 76/78 - 76/120*** &#8594; Cispa, 2 Adv, 3 Core
+#### ***&#8594; Semester credits: 45*** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ***&#8594; Total credits: 76/78 - 76/120*** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#8594; Cispa, 2 Adv, 3 Core
 
 
 ## Links Saarbrucken
