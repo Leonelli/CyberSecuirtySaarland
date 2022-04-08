@@ -1,6 +1,6 @@
 # CyberSecurity Master - Saarland University
 
-[WebSite Master] (https://www.uni-saarland.de/en/study/programmes/master/cybersecurity.html)
+[WebSite Master](https://www.uni-saarland.de/en/study/programmes/master/cybersecurity.html)
 
 [Exam Repo](https://cs.fs.uni-saarland.de/?page_id=2904)
 
