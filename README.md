@@ -38,7 +38,7 @@
 
 ### Core Lectures (3 to take)
 
-[Cryptography](https://cms.cispa.saarland/crypto22) [9CPs]
+[Cryptography](https://cms.cispa.saarland/crypto22) [9CPs] **(Mandatory!)**
 
 [Machine Learning](https://cms.cispa.saarland/ml22/) [9CPs]
 
