@@ -38,21 +38,21 @@
 
 ### Core Lectures (3 to take)
 
-[Cryptography](https://cms.cispa.saarland/crypto22) [9CPs] **(Mandatory!)**
+**[Cryptography]**(https://cms.cispa.saarland/crypto22) [9CPs] **(Mandatory!)**
 
 [Machine Learning](https://cms.cispa.saarland/ml22/) [9CPs]
 
-[Artificial Intelligence](https://cms.sic.saarland/ai_22/students/view) [9CPs]
+**[Artificial Intelligence]**(https://cms.sic.saarland/ai_22/students/view) [9CPs]
 
-[Embedded Systems](https://cms.sic.saarland/es22/students/view) [9CPs]
+**[Embedded Systems]**(https://cms.sic.saarland/es22/students/view) [9CPs]
 
 ### Advanced Lectures Cybersecurity (2 to take)
 
 [Foundations of Web Security](https://cms.cispa.saarland/fows22/) [6CPs]
 
-[Physical-Layer Security](https://cms.cispa.saarland/physec_22/) [6CPs]
+**[Physical-Layer Security]**(https://cms.cispa.saarland/physec_22/) [6CPs]
 
-[Secure Web Development](https://cms.cispa.saarland/swd_2022/) [6CPs]
+**[Secure Web Development]**(https://cms.cispa.saarland/swd_2022/) [6CPs]
 
 ### Block Lecure
 
@@ -63,7 +63,7 @@
 
 ### Freely choosen Points (12/14)
 
-[Work at CISPA](https://cispa.de/de) [6CPs]
+**[Work at CISPA]**(https://cispa.de/de) [6CPs]
 
 
 #### ***&#8594; Semester credits: 45*** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ***&#8594; Total credits: 76/78 - 76/120*** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#8594; Cispa, 2 Adv, 3 Core
