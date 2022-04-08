@@ -26,7 +26,7 @@
 
 [Spanish](https://m1.szsb.uni-saarland.de/moodle/m1/course/view.php?id=2641) [6CPs]✅
 
-#### ***&#8594; Total credits: 31***
+#### ***&#8594; Semester credits: 31***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ***&#8594; Total credits: 31/120***
 
 
 
@@ -56,7 +56,7 @@
 ~~[Hands on Networking CMS](https://cms.sic.saarland/hon/) [6CPs]~~
 
 
-#### ***&#8594; Total credits: 36***
+#### ***&#8594; Semester credits: 36***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ***&#8594; Total credits: 67/120***
 
 
 ## Links Saarbrucken
