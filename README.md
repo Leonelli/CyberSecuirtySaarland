@@ -44,7 +44,7 @@
 
 [Machine Learning](https://cms.cispa.saarland/ml22/) [9CPs]
 
-**[Artificial Intelligence](https://cms.sic.saarland/ai_22/students/view)** [9CPs]
+**[Artificial Intelligence](https://cms.sic.saarland/ai_22/)** [9CPs]
 
 ### Advanced Lectures Cybersecurity (2 to take)
 
