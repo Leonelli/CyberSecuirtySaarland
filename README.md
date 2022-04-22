@@ -44,8 +44,6 @@
 
 **[Machine Learning](https://cms.cispa.saarland/ml22/)** [9CPs] (Assignment not to submit)
 
-~~[Artificial Intelligence](https://cms.sic.saarland/ai_22/) [9CPs]~~
-
 ### Advanced Lectures Cybersecurity (2 to take)
 
 [Foundations of Web Security](https://cms.cispa.saarland/fows22/) [6CPs] (Admission passed)
