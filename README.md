@@ -54,13 +54,6 @@
 
 **[Secure Web Development](https://cms.cispa.saarland/swd_2022/)** [6CPs] (3 build phases)
 
-### Block Lecure
-
-~~[Hands on Networking moodle](https://lms.sulb.uni-saarland.de/moodle/course/index.php?categoryid=2806)~~
-
-
-~~[Hands on Networking CMS](https://cms.sic.saarland/hon/) [6CPs]~~
-
 ### Freely choosen Points (12/14)
 
 **[Work at CISPA](https://cispa.de/de)** [6CPs]
