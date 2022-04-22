@@ -65,7 +65,7 @@
 
 **[Work at CISPA](https://cispa.de/de)** [6CPs]
 
-**[Text-to-speech synthesis](https://www.coli.uni-saarland.de/courses/sprachsynthese/2022_SS/tts.html)** [3CPs] (Is valid for Cybersecurity?)
+**[Text-to-speech synthesis](https://www.coli.uni-saarland.de/courses/sprachsynthese/2022_SS/tts.html)** [3CPs]
 
 
 #### ***&#8594; Semester credits: 45*** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ***&#8594; Total credits: 79/78 - 79/120*** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#8594; Cispa, 2 Adv, 3 Core
