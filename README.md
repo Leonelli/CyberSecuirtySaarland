@@ -37,22 +37,22 @@
 ## Second Semester
 
 ### Core Lectures (3 to take)
+ 
+**[Cryptography](https://cms.cispa.saarland/crypto22)** [9CPs] **(Mandatory!)** (Admission passed)
 
-**[Cryptography](https://cms.cispa.saarland/crypto22)** [9CPs] **(Mandatory!)**
+**[Data Networks](https://inet-teaching.mpi-inf.mpg.de/dn_22/)** [9CPs] (Weekly Assignment)
 
-**[Data Networks](https://inet-teaching.mpi-inf.mpg.de/dn_22/)** [9CPs]
-
-**[Machine Learning](https://cms.cispa.saarland/ml22/)** [9CPs]
+**[Machine Learning](https://cms.cispa.saarland/ml22/)** [9CPs] (Assignment not to submit)
 
 ~~[Artificial Intelligence](https://cms.sic.saarland/ai_22/) [9CPs]~~
 
 ### Advanced Lectures Cybersecurity (2 to take)
 
-[Foundations of Web Security](https://cms.cispa.saarland/fows22/) [6CPs]
+[Foundations of Web Security](https://cms.cispa.saarland/fows22/) [6CPs] (Admission passed)
 
-**[Physical-Layer Security](https://cms.cispa.saarland/physec_22/)** [6CPs]
+**[Physical-Layer Security](https://cms.cispa.saarland/physec_22/)** [6CPs] (6 Assignment every 2 weeks)
 
-**[Secure Web Development](https://cms.cispa.saarland/swd_2022/)** [6CPs]
+**[Secure Web Development](https://cms.cispa.saarland/swd_2022/)** [6CPs] (3 build phases)
 
 ### Block Lecure
 
