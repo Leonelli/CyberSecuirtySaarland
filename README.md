@@ -52,9 +52,7 @@
 
 **[Secure Web Development](https://cms.cispa.saarland/swd_2022/)** [6CPs] (3 build phases)
 
-### Freely choosen Points (12/14)
-
-**[Work at CISPA](https://cispa.de/de)** [6CPs]
+### Freely choosen Points (9/14)
 
 **[Text-to-speech synthesis](https://www.coli.uni-saarland.de/courses/sprachsynthese/2022_SS/tts.html)** [3CPs]
 
