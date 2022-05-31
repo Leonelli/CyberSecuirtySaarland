@@ -36,28 +36,29 @@
 
 ## Second Semester
 
-### Core Lectures (3 to take)
+### Core Lectures (18/27)
  
 **[Cryptography](https://cms.cispa.saarland/crypto22)** [9CPs] **(Mandatory!)** (Admission passed)
 
 **[Data Networks](https://inet-teaching.mpi-inf.mpg.de/dn_22/)** [9CPs] (Weekly Assignment)
 
-**[Machine Learning](https://cms.cispa.saarland/ml22/)** [9CPs] (Assignment not to submit)
+[Machine Learning](https://cms.cispa.saarland/ml22/) [9CPs] (Assignment not to submit)
 
-### Advanced Lectures Cybersecurity (2 to take)
+### Advanced Lectures Cybersecurity (30/30)
 
-[Foundations of Web Security](https://cms.cispa.saarland/fows22/) [6CPs] (Admission passed)
-
-**[Physical-Layer Security](https://cms.cispa.saarland/physec_22/)** [6CPs] (6 Assignment every 2 weeks)
+**[Foundations of Web Security](https://cms.cispa.saarland/fows22/)** [6CPs] (Admission passed)
 
 **[Secure Web Development](https://cms.cispa.saarland/swd_2022/)** [6CPs] (3 build phases)
+
+[Physical-Layer Security](https://cms.cispa.saarland/physec_22/) [6CPs] (6 Assignment every 2 weeks)
+
 
 ### Freely choosen Points (9/14)
 
 **[Text-to-speech synthesis](https://www.coli.uni-saarland.de/courses/sprachsynthese/2022_SS/tts.html)** [3CPs]
 
 
-#### ***&#8594; Semester credits: 45*** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ***&#8594; Total credits: 79/78 - 79/120*** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#8594; Cispa, 2 Adv, 3 Core
+#### ***&#8594; Semester credits: 45*** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ***&#8594; Total credits: 64/78 - 64/120*** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#8594; Missing 0 Adv, 1 Core, 1 Free credits.
 
 
 ## Links Saarbrucken
