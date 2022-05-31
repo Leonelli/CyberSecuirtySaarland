@@ -42,7 +42,7 @@
 
 **[Data Networks](https://inet-teaching.mpi-inf.mpg.de/dn_22/)** [9CPs] (Weekly Assignment)
 
-[Machine Learning](https://cms.cispa.saarland/ml22/) [9CPs] (Assignment not to submit)
+~~[Machine Learning](https://cms.cispa.saarland/ml22/) [9CPs] (Assignment not to submit)~~
 
 ### Advanced Lectures Cybersecurity (30/30)
 
@@ -50,7 +50,7 @@
 
 **[Secure Web Development](https://cms.cispa.saarland/swd_2022/)** [6CPs] (3 build phases)
 
-[Physical-Layer Security](https://cms.cispa.saarland/physec_22/) [6CPs] (6 Assignment every 2 weeks)
+~~[Physical-Layer Security](https://cms.cispa.saarland/physec_22/) [6CPs] (6 Assignment every 2 weeks)~~
 
 
 ### Freely choosen Points (9/14)
