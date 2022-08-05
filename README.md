@@ -38,7 +38,7 @@
 
 ### Core Lectures (18/27)
  
-**[Cryptography](https://cms.cispa.saarland/crypto22)** [9CPs] **(Mandatory!)** (Admission passed) ❔❓
+**[Cryptography](https://cms.cispa.saarland/crypto22)** [9CPs] **(Mandatory!)** ❔❓
 
 **[Data Networks](https://inet-teaching.mpi-inf.mpg.de/dn_22/)** [9CPs] ✅
 
