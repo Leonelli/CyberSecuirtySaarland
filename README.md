@@ -12,21 +12,21 @@
 
 ### Core Lectures (0/27)
 
-~~[Verification](https://cms.cispa.saarland/ver2122/) [9CPs]❌~~
+~~[Verification](https://cms.cispa.saarland/ver2122/) [9CPs]~~
 
 ### Advanced Lectures Cybersecurity (18/30)    
-[Side-Channel Attacks and Defenses](https://cms.cispa.saarland/scad2122/) [6CPs]✅
+[Side-Channel Attacks and Defenses](https://cms.cispa.saarland/scad2122/) [6CPs] ✅
 
-[Systems Security](https://cms.cispa.saarland/syssec/) [6CPs]✅
+[Systems Security](https://cms.cispa.saarland/syssec/) [6CPs] ✅
 
-[Security Testing](https://cms.cispa.saarland/fuzzing2122/) [6CPs]✅
+[Security Testing](https://cms.cispa.saarland/fuzzing2122/) [6CPs] ✅
 
 ### Seminars Cybersecurity (7/7)
-[Current Topics in Systems Security](https://cms.cispa.saarland/syssecseminar21/) - [Reviews System](https://cispa-syssec21.hotcrp.com) [7CPs]✅
+[Current Topics in Systems Security](https://cms.cispa.saarland/syssecseminar21/) - [Reviews System](https://cispa-syssec21.hotcrp.com) [7CPs] ✅
 
 ### Freely choosen Points (6/14)
 
-[Spanish](https://m1.szsb.uni-saarland.de/moodle/m1/course/view.php?id=2641) [6CPs]✅
+[Spanish](https://m1.szsb.uni-saarland.de/moodle/m1/course/view.php?id=2641) [6CPs] ✅
 
 #### ***&#8594; Semester credits: 31***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ***&#8594; Total credits: 31/78 - 31/120***
 
