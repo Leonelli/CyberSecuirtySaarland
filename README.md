@@ -38,7 +38,7 @@
 
 ### Core Lectures (18/27)
  
-**[Cryptography](https://cms.cispa.saarland/crypto22)** [9CPs] **(Mandatory!)** ❔❓
+**[Cryptography](https://cms.cispa.saarland/crypto22)** [9CPs] **(Mandatory!)** ✅
 
 **[Data Networks](https://inet-teaching.mpi-inf.mpg.de/dn_22/)** [9CPs] ✅
 
@@ -58,7 +58,7 @@
 **[Text-to-speech synthesis](https://www.coli.uni-saarland.de/courses/sprachsynthese/2022_SS/tts.html)** [3CPs] ❔❓
 
 
-#### ***&#8594; Semester credits: 33*** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ***&#8594; Total credits: 64/78 - 64/120*** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#8594; Missing 0 Adv, 1 Core, 1 Free credits.
+#### ***&#8594; Semester credits: 33*** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ***&#8594; Total credits: 55/78 - 64/120*** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#8594; Missing 0 Adv, 1 Core, 1 Free credits.
 
 
 ## Links Saarbrucken
