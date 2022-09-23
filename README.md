@@ -50,6 +50,8 @@
 
 **[Secure Web Development](https://cms.cispa.saarland/swd_2022/)** [6CPs] ❔❓
 
+[SWD mind map](https://www.mindmeister.com/map/2424418667)
+
 ~~[Physical-Layer Security](https://cms.cispa.saarland/physec_22/) [6CPs]~~
 
 
