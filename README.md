@@ -64,25 +64,22 @@
 
 ### Core Lectures (27/27)
  
-**[Complexity Theory]()** [9CPs]
-
 **[Complier Construction]()** [9CPs]
 
-### Advanced Lectures Cybersecurity (30/30)
+~~**[Complexity Theory]()** [9CPs]~~
 
-**[Seminar]()** [7CPs]
+### Advanced Lectures Cybersecurity (37/30)
 
-**[Coding Theory]()** [6CPs]
+**[Seminar Status](https://seminars.cs.uni-saarland.de/seminars2223/registration/status)** [7CPs]
 
-**[Atuomated Debugging](https://cms.cispa.saarland/swd_2022/)** [6CPs]
+~~**[Coding Theory]()** [6CPs]~~
+
+~~**[Atuomated Debugging]()** [6CPs]~~
 
 
-### Freely choosen Points (10/14 + 6 extra advance lecture)
+### Freely choosen Points (16/14 + (10+6 for extra advance lecture))
 
 **[HCI tutoring]()** [4CPs]
-
-
-
 
 
 
