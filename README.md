@@ -64,15 +64,15 @@
  
 **[Complier Construction]()** [9CPs]
 
-~~**[Complexity Theory]()** [9CPs]~~
+~~[Complexity Theory]() [9CPs]~~
 
 ### Advanced Lectures Cybersecurity (37/30)
 
 **[Seminar Status](https://seminars.cs.uni-saarland.de/seminars2223/registration/status)** [7CPs]
 
-~~**[Coding Theory]()** [6CPs]~~
+~~[Coding Theory]() [6CPs]~~
 
-~~**[Atuomated Debugging]()** [6CPs]~~
+~~[Atuomated Debugging]() [6CPs]~~
 
 
 ### Freely choosen Points (16/14 + (10+6 for extra advance lecture))
@@ -80,7 +80,7 @@
 **[HCI tutoring]()** [4CPs]
 
 
-#### ***&#8594; Semester credits: 16 ***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ***&#8594; Total credits: 81/78 - 81/120***
+#### ***&#8594; Semester credits: 20 *** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ***&#8594; Total credits: 81/78 - 81/120***
 
 
 ## Thesis
