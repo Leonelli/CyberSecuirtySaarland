@@ -70,9 +70,6 @@
 
 ### Advanced Lectures Cybersecurity (30/30)
 
-**[Coding Theory]()** [6CPs]
-
-**[Atuomated Debugging](https://cms.cispa.saarland/swd_2022/)** [6CPs]
 
 
 ### Freely choosen Points (10/14 + 6 extra advance lecture)
