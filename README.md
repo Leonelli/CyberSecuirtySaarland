@@ -85,9 +85,9 @@
 
 ## Thesis
 
-### Master Seminar [12CPs]
+### Master Seminar (12/12)
 
-### Master Thesis [30CPs]
+### Master Thesis (30/30)
 
 
 #### ***&#8594; Semester credits: 42***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ***&#8594; Total credits: 81/78 - 123/120***
