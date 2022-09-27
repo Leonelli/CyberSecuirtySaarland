@@ -55,12 +55,44 @@
 ~~[Physical-Layer Security](https://cms.cispa.saarland/physec_22/) [6CPs]~~
 
 
-### Freely choosen Points (9/14)
+### Freely choosen Points (6/14)
 
 **[Text-to-speech synthesis](https://www.coli.uni-saarland.de/courses/sprachsynthese/2022_SS/tts.html)** [3CPs] ❔❓
 
 
 #### ***&#8594; Semester credits: 33*** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ***&#8594; Total credits: 55/78 - 64/120*** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#8594; Missing 0 Adv, 1 Core, 1 Free credits.
+
+
+
+## Third Semester
+
+### Core Lectures (27/27)
+ 
+**[Complexity Theory]()** [9CPs]
+
+**[Complier Construction]()** [9CPs]
+
+### Advanced Lectures Cybersecurity (30/30)
+
+**[Coding Theory]()** [6CPs]
+
+**[Atuomated Debugging](https://cms.cispa.saarland/swd_2022/)** [6CPs]
+
+
+### Freely choosen Points (10/14 + 6 extra advance lecture)
+
+**[HCI tutoring]()** [4CPs]
+
+**[Coding Theory]()** [6CPs]
+
+**[Atuomated Debugging](https://cms.cispa.saarland/swd_2022/)** [6CPs]
+
+
+### Master Seminar [12CPs]
+
+### Master Thesis [30CPs]
+
+
 
 
 ## Links Saarbrucken
