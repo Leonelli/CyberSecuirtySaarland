@@ -50,7 +50,7 @@
 
 ### Freely choosen Points (6/14)
 
-~~**[Text-to-speech synthesis](https://www.coli.uni-saarland.de/courses/sprachsynthese/2022_SS/tts.html)** [3CPs]~~
+~~[Text-to-speech synthesis](https://www.coli.uni-saarland.de/courses/sprachsynthese/2022_SS/tts.html) [3CPs]~~
 
 
 #### ***&#8594; Semester credits: 30*** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ***&#8594; Total credits: 61/78 - 61/120*** 
