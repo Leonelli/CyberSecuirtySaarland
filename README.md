@@ -6,7 +6,7 @@
 
 [Grade Scale Converesion](https://www.th-nuernberg.de/fileadmin/zentrale-einrichtungen/szs/stm/stm_bilder/Studienangebot/Studiengaenge/International_Marketing/Notenumrechnungstabelle.pdf)
 
-## [Master CyberSecurity Lecture WiSe 2022 LSF](https://www.lsf.uni-saarland.de/qisserver/rds?state=wtree&search=1&trex=total&root120212=300726|294085|299760|297085|307396&P.vx=kurz)
+## [Master CyberSecurity Lecture WiSe 2021/2022 LSF](https://www.lsf.uni-saarland.de/qisserver/rds?state=wtree&search=1&trex=total&root120212=300726|294085|299760|297085|307396&P.vx=kurz)
 
 ## First Semester
 
@@ -63,6 +63,7 @@
 #### ***&#8594; Semester credits: 33*** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ***&#8594; Total credits: 55/78 - 64/120*** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#8594; Missing 0 Adv, 1 Core, 1 Free credits.
 
 
+## [Master CyberSecurity Lecture WiSe 2022/2023 LSF]([https://www.lsf.uni-saarland.de/qisserver/rds?state=wtree&search=1&trex=total&root120212=300726|294085|299760|297085|307396&P.vx=kurz](https://www.lsf.uni-saarland.de/qisserver/rds?state=wtree&search=1&trex=total&root120222=329588|327146|329483|325343&P.vx=kurz))
 
 ## Third Semester
 
