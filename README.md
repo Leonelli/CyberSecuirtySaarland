@@ -53,7 +53,7 @@
 ~~[Text-to-speech synthesis](https://www.coli.uni-saarland.de/courses/sprachsynthese/2022_SS/tts.html) [3CPs]~~
 
 
-#### ***&#8594; Semester credits: 30*** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ***&#8594; Total credits: 61/78 - 61/120*** 
+#### ***&#8594; Semester credits: 30***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ***&#8594; Total credits: 61/78 - 61/120*** 
 
 
 ## [Master CyberSecurity Lecture WiSe 2022/2023 LSF](https://www.lsf.uni-saarland.de/qisserver/rds?state=wtree&search=1&trex=total&root120222=329588|327146|329483|325343&P.vx=kurz)
@@ -80,7 +80,7 @@
 **[HCI tutoring]()** [4CPs]
 
 
-#### ***&#8594; Semester credits: 20 *** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ***&#8594; Total credits: 81/78 - 81/120***
+#### ***&#8594; Semester credits: 20 ***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ***&#8594; Total credits: 81/78 - 81/120***
 
 
 ## Thesis
@@ -90,7 +90,7 @@
 ### Master Thesis [30CPs]
 
 
-#### ***&#8594; Semester credits: 16 ***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ***&#8594; Total credits: 81/78 - 123/120***
+#### ***&#8594; Semester credits: 42 ***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ***&#8594; Total credits: 81/78 - 123/120***
 
 
 
