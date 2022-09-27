@@ -43,19 +43,17 @@
 
 **[Foundations of Web Security](https://cms.cispa.saarland/fows22/)** [6CPs] ✅ 
 
-**[Secure Web Development](https://cms.cispa.saarland/swd_2022/)** [6CPs] ❔❓
-
-[SWD mind map](https://www.mindmeister.com/map/2424418667)
+**[Secure Web Development](https://cms.cispa.saarland/swd_2022/)** [6CPs] ❔❓  [SWD mind map](https://www.mindmeister.com/map/2424418667)
 
 ~~[Physical-Layer Security](https://cms.cispa.saarland/physec_22/) [6CPs]~~
 
 
 ### Freely choosen Points (6/14)
 
-**[Text-to-speech synthesis](https://www.coli.uni-saarland.de/courses/sprachsynthese/2022_SS/tts.html)** [3CPs] ❔❓
+~~**[Text-to-speech synthesis](https://www.coli.uni-saarland.de/courses/sprachsynthese/2022_SS/tts.html)** [3CPs]~~
 
 
-#### ***&#8594; Semester credits: 33*** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ***&#8594; Total credits: 55/78 - 64/120*** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#8594; Missing 0 Adv, 1 Core, 1 Free credits.
+#### ***&#8594; Semester credits: 30*** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ***&#8594; Total credits: 61/78 - 61/120*** 
 
 
 ## [Master CyberSecurity Lecture WiSe 2022/2023 LSF](https://www.lsf.uni-saarland.de/qisserver/rds?state=wtree&search=1&trex=total&root120222=329588|327146|329483|325343&P.vx=kurz)
@@ -82,10 +80,18 @@
 **[HCI tutoring]()** [4CPs]
 
 
+#### ***&#8594; Semester credits: 16 ***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ***&#8594; Total credits: 81/78 - 81/120***
+
+
+## Thesis
 
 ### Master Seminar [12CPs]
 
 ### Master Thesis [30CPs]
+
+
+#### ***&#8594; Semester credits: 16 ***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ***&#8594; Total credits: 81/78 - 123/120***
+
 
 
 
