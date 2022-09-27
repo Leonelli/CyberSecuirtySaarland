@@ -80,7 +80,7 @@
 **[HCI tutoring]()** [4CPs]
 
 
-#### ***&#8594; Semester credits: 20 ***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ***&#8594; Total credits: 81/78 - 81/120***
+#### ***&#8594; Semester credits: 20***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ***&#8594; Total credits: 81/78 - 81/120***
 
 
 ## Thesis
@@ -90,7 +90,7 @@
 ### Master Thesis [30CPs]
 
 
-#### ***&#8594; Semester credits: 42 ***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ***&#8594; Total credits: 81/78 - 123/120***
+#### ***&#8594; Semester credits: 42***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ***&#8594; Total credits: 81/78 - 123/120***
 
 
 
