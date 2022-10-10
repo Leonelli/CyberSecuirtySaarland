@@ -62,7 +62,7 @@
 
 ### Core Lectures (27/27)
  
-**[Complier Construction]()** [9CPs]
+**[Complier Construction](https://cms.sic.saarland/cc22/)** [9CPs]
 
 ~~[Complexity Theory]() [9CPs]~~
 
@@ -72,7 +72,7 @@
 
 ~~[Coding Theory]() [6CPs]~~
 
-~~[Atuomated Debugging]() [6CPs]~~
+[Atuomated Debugging](https://cms.cispa.saarland/debug_2223/) [6CPs]
 
 
 ### Freely choosen Points (16/14 + (10+6 for extra advance lecture))
