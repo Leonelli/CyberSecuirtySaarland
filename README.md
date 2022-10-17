@@ -7,7 +7,6 @@
 
 ### Core Lectures (0/27)
 
-~~[Verification](https://cms.cispa.saarland/ver2122/) [9CPs]~~
 
 ### Advanced Lectures Cybersecurity (18/30)    
 [Side-Channel Attacks and Defenses](https://cms.cispa.saarland/scad2122/) [6CPs] ✅
@@ -37,7 +36,6 @@
 
 **[Data Networks](https://inet-teaching.mpi-inf.mpg.de/dn_22/)** [9CPs] ✅
 
-~~[Machine Learning](https://cms.cispa.saarland/ml22/) [9CPs]~~
 
 ### Advanced Lectures Cybersecurity (30/30)
 
@@ -45,12 +43,8 @@
 
 **[Secure Web Development](https://cms.cispa.saarland/swd_2022/)** [6CPs] ❔❓
 
-~~[Physical-Layer Security](https://cms.cispa.saarland/physec_22/) [6CPs]~~
-
 
 ### Freely choosen Points (6/14)
-
-~~[Text-to-speech synthesis](https://www.coli.uni-saarland.de/courses/sprachsynthese/2022_SS/tts.html) [3CPs]~~
 
 
 #### ***&#8594; Semester credits: 30***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ***&#8594; Total credits: 61/78 - 61/120*** 
