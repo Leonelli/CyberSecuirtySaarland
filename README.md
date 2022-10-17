@@ -64,15 +64,19 @@
  
 **[Complier Construction](https://cms.sic.saarland/cc22/)** [9CPs]
 
+**[Database System](https://cms.sic.saarland/dbsys22/)** [9CPs]
+
+
 ~~[Complexity Theory]() [9CPs]~~
 
 ### Advanced Lectures Cybersecurity (37/30)
 
 **[Seminar Status](https://seminars.cs.uni-saarland.de/seminars2223/registration/status)** [7CPs]
 
+[Atuomated Debugging](https://cms.cispa.saarland/debug_2223/) [6CPs]
+
 ~~[Coding Theory]() [6CPs]~~
 
-[Atuomated Debugging](https://cms.cispa.saarland/debug_2223/) [6CPs]
 
 
 ### Freely choosen Points (16/14 + (10+6 for extra advance lecture))
