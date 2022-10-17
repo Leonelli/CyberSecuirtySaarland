@@ -73,7 +73,7 @@
 
 **[Seminar Status](https://seminars.cs.uni-saarland.de/seminars2223/registration/status)** [7CPs]
 
-[Atuomated Debugging](https://cms.cispa.saarland/debug_2223/) [6CPs]
+**[Atuomated Debugging](https://cms.cispa.saarland/debug_2223/)** [6CPs]
 
 ~~[Coding Theory]() [6CPs]~~
 
