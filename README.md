@@ -58,18 +58,23 @@
  
 **[Complier Construction](https://cms.sic.saarland/cc22/)** [9CPs]
 
+**[Complier Construction Material WiSe 2020/2021](https://cms.sic.saarland/cc20/materials/)**
+
 **[Database System](https://cms.sic.saarland/dbsys22/)** [9CPs]
 
+**[DB Youtube WiSe 2020/2021](https://www.youtube.com/watch?v=SMLDuYrAZZs&list=PLC4UZxBVGKtd2Dg0PEyxaLK0f-jhJA3A1)
 
-~~[Complexity Theory]() [9CPs]~~
+
 
 ### Advanced Lectures Cybersecurity (37/30)
 
 **[Seminar Status](https://seminars.cs.uni-saarland.de/seminars2223/registration/status)** [7CPs]
 
-**[Atuomated Debugging](https://cms.cispa.saarland/debug_2223/)** [6CPs]
+**[Automated Debugging](https://cms.cispa.saarland/debug_2223/)** [6CPs]
 
-~~[Coding Theory]() [6CPs]~~
+**[Automated Debugging](https://cms.cispa.saarland/debug_2223/)** [6CPs]
+
+**[Debugging Book](https://www.debuggingbook.org/html/Intro_Debugging.html)**
 
 
 
