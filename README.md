@@ -72,9 +72,7 @@
 
 **[Automated Debugging](https://cms.cispa.saarland/debug_2223/)** [6CPs]
 
-**[Automated Debugging](https://cms.cispa.saarland/debug_2223/)** [6CPs]
-
-**[Debugging Book](https://www.debuggingbook.org/html/Intro_Debugging.html)**
+**[Debugging Book](https://www.debuggingbook.org/html/Intro_Debugging.html)**  
 
 
 
