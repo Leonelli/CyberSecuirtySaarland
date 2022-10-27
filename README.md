@@ -32,16 +32,16 @@
 
 ### Core Lectures (18/27)
  
-**[Cryptography](https://cms.cispa.saarland/crypto22)** [9CPs] **(Mandatory!)** ✅
+[Cryptography](https://cms.cispa.saarland/crypto22) [9CPs] ✅
 
-**[Data Networks](https://inet-teaching.mpi-inf.mpg.de/dn_22/)** [9CPs] ✅
+[Data Networks](https://inet-teaching.mpi-inf.mpg.de/dn_22/) [9CPs] ✅
 
 
 ### Advanced Lectures Cybersecurity (30/30)
 
-**[Foundations of Web Security](https://cms.cispa.saarland/fows22/)** [6CPs] ✅ 
+[Foundations of Web Security](https://cms.cispa.saarland/fows22/) [6CPs] ✅ 
 
-**[Secure Web Development](https://cms.cispa.saarland/swd_2022/)** [6CPs] ❔❓
+[Secure Web Development](https://cms.cispa.saarland/swd_2022/) [6CPs] ❔❓
 
 
 ### Freely choosen Points (6/14)
