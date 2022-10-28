@@ -70,7 +70,7 @@
 
 
 
-### Advanced Lectures Cybersecurity (37/30)
+### Advanced Lectures Cybersecurity (36/30)
 
 **[Automated Debugging](https://cms.cispa.saarland/debug_2223/)** [6CPs]
 
