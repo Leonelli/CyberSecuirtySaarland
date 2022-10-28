@@ -77,7 +77,7 @@
 [Debugging Book](https://www.debuggingbook.org/html/Intro_Debugging.html)
 
 
-### Seminars Cybersecurity (7/7)
+### Seminars Cybersecurity (14/7)
 
 **[Microarchitectural Security via Hardware-Software Contracts](https://cms.sic.saarland/contracts2223/)** [7CPs]
 
