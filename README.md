@@ -72,13 +72,16 @@
 
 ### Advanced Lectures Cybersecurity (37/30)
 
-**[Microarchitectural Security via Hardware-Software Contracts](https://cms.sic.saarland/contracts2223/)** [7CPs]
-
-[Seminar Status](https://seminars.cs.uni-saarland.de/seminars2223/registration/status)
-
 **[Automated Debugging](https://cms.cispa.saarland/debug_2223/)** [6CPs]
 
 [Debugging Book](https://www.debuggingbook.org/html/Intro_Debugging.html)
+
+
+### Seminars Cybersecurity (7/7)
+
+**[Microarchitectural Security via Hardware-Software Contracts](https://cms.sic.saarland/contracts2223/)** [7CPs]
+
+[Seminar Status](https://seminars.cs.uni-saarland.de/seminars2223/registration/status)
 
 
 
