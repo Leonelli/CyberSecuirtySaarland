@@ -85,9 +85,9 @@
 
 
 
-### Freely choosen Points (16/14 + (10+6 for extra advance lecture))
+### Freely choosen Points (10/14 + extra advance lecture)
 
-**[HCI tutoring]()** [4CPs]
+**[HCI tutoring](https://hci-lecture.cs.uni-saarland.de/course/view.php?id=26)** [4CPs]
 
 
 #### ***&#8594; Semester credits: 20***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ***&#8594; Total credits: 81/78 - 81/120***
