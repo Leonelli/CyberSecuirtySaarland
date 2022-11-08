@@ -41,7 +41,7 @@
 
 [Foundations of Web Security](https://cms.cispa.saarland/fows22/) [6CPs] ✅ 
 
-[Secure Web Development](https://cms.cispa.saarland/swd_2022/) [6CPs] ❔❓
+[Secure Web Development](https://cms.cispa.saarland/swd_2022/) [6CPs] ✅
 
 
 ### Freely choosen Points (6/14)
