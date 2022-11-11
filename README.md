@@ -81,8 +81,6 @@
 
 **[Microarchitectural Security via Hardware-Software Contracts](https://cms.sic.saarland/contracts2223/)** [7CPs]
 
-[Seminar Status](https://seminars.cs.uni-saarland.de/seminars2223/registration/status)
-
 
 
 ### Freely choosen Points (10/14 + extra advance lecture)
