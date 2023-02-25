@@ -75,12 +75,15 @@
 
 
 
-### Freely choosen Points (10/14 + extra advance lecture)
+### Freely choosen Points (14/14)
 
 **[HCI tutoring](https://hci-lecture.cs.uni-saarland.de/course/view.php?id=26)** [4CPs]
 
+**[System Security tutoring]()** [4CPs]
 
-#### ***&#8594; Semester credits: 20***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ***&#8594; Total credits: 81/78 - 81/120***
+
+
+#### ***&#8594; Semester credits: 30***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ***&#8594; Total credits: 91/78 - 91/120***
 
 
 ## Thesis
