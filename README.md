@@ -54,23 +54,11 @@
 
 ## Third Semester
 
-### Core Lectures (27/27)
- 
-**[Complier Construction](https://cms.sic.saarland/cc22/)** [9CPs]
-
-[Complier Construction Material WiSe 2020/2021](https://cms.sic.saarland/cc20/materials/)
-
-[Complier Construction 2022 YouTube](https://www.youtube.com/playlist?list=PLSTUeTS8gQK6eExwf5AMvkxYD6pIWto0w)
-
-
+### Core Lectures (27/27) 
 
 **[Database System](https://cms.sic.saarland/dbsys22/)** [9CPs]
 
 [Database Systems Project Evaluation](https://bigdata.uni-saarland.de/teaching/dbsys22/eval.php)
-
-[DB Youtube WiSe 2020/2021](https://www.youtube.com/watch?v=SMLDuYrAZZs&list=PLC4UZxBVGKtd2Dg0PEyxaLK0f-jhJA3A1)
-
-
 
 
 
