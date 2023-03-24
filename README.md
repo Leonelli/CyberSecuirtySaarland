@@ -56,34 +56,43 @@
 
 ### Core Lectures (27/27) 
 
-**[Database System](https://cms.sic.saarland/dbsys22/)** [9CPs]
-
-[Database Systems Project Evaluation](https://bigdata.uni-saarland.de/teaching/dbsys22/eval.php)
+**[Database System](https://cms.sic.saarland/dbsys22/)** [9CPs] ✅
 
 
 
 ### Advanced Lectures Cybersecurity (36/30)
 
-**[Automated Debugging](https://cms.cispa.saarland/debug_2223/)** [6CPs]
-
-[Debugging Book](https://www.debuggingbook.org/html/Intro_Debugging.html)
+**[Automated Debugging](https://cms.cispa.saarland/debug_2223/)** [6CPs] ✅
 
 
 ### Seminars Cybersecurity (14/7)
 
-**[Microarchitectural Security via Hardware-Software Contracts](https://cms.sic.saarland/contracts2223/)** [7CPs]
+**[Microarchitectural Security via Hardware-Software Contracts](https://cms.sic.saarland/contracts2223/)** [7CPs] ✅
 
 
 
 ### Freely choosen Points (14/14)
 
-**[HCI tutoring](https://hci-lecture.cs.uni-saarland.de/course/view.php?id=26)** [4CPs]
-
-**[System Security tutoring]()** [4CPs]
+**[HCI tutoring](https://hci-lecture.cs.uni-saarland.de/course/view.php?id=26)** [4CPs] ✅
+ 
+**[System Security tutoring]()** [4CPs] ✅
 
 
 
 #### ***&#8594; Semester credits: 30***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ***&#8594; Total credits: 91/78 - 91/120***
+
+
+## Fourth Semester
+
+[Embedded Systems](https://www.lsf.uni-saarland.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=142954&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung) [9CPs]
+[Distributed Systems](https://www.lsf.uni-saarland.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=143171&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung) [9CPs]
+
+[Machine Learning](https://www.lsf.uni-saarland.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=143170&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung) [9CPs]
+
+[IT-Forensics](https://www.lsf.uni-saarland.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=143438&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung) [6CPs]
+
+[Attacks Against Machine Learning Models](https://www.lsf.uni-saarland.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=143568&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung) [6CPs]
+
 
 
 ## Thesis
