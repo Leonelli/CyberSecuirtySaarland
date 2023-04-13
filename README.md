@@ -56,18 +56,18 @@
 
 ### Core Lectures (27/27) 
 
-**[Database System](https://cms.sic.saarland/dbsys22/)** [9CPs] ✅
+[Database System](https://cms.sic.saarland/dbsys22/) [9CPs] ✅
 
 
 
 ### Advanced Lectures Cybersecurity (36/30)
 
-**[Automated Debugging](https://cms.cispa.saarland/debug_2223/)** [6CPs] ✅
+[Automated Debugging](https://cms.cispa.saarland/debug_2223/) [6CPs] ✅
 
 
 ### Seminars Cybersecurity (14/7)
 
-**[Microarchitectural Security via Hardware-Software Contracts](https://cms.sic.saarland/contracts2223/)** [7CPs] ✅
+[Microarchitectural Security via Hardware-Software Contracts](https://cms.sic.saarland/contracts2223/) [7CPs] ✅
 
 
 
@@ -84,17 +84,17 @@
 
 ## Fourth Semester
 
-[Embedded Systems](https://cms.sic.saarland/es23/) [9CPs]
+**[Embedded Systems](https://cms.sic.saarland/es23/)** [9CPs]
 
-[Distributed Systems](https://moodle.mpi-sws.org/course/view.php?id=66) [9CPs]
+**[Distributed Systems](https://moodle.mpi-sws.org/course/view.php?id=66)** [9CPs]
 
 [Machine Learning](https://cms.sic.saarland/coreml/) [9CPs]
 
 [IT-Forensics](https://cms.cispa.saarland/itf23/) [6CPs]
 
-[Attacks Against Machine Learning Models](https://cms.cispa.saarland/amlm2023/) [6CPs]
+**[Attacks Against Machine Learning Models](https://cms.cispa.saarland/amlm2023/)** [6CPs]
 
-[Reverse Engineering and Exploit Development For Embedded Systems](https://cms.cispa.saarland/emsecexpdevs2023/) [6CPs]
+**[Reverse Engineering and Exploit Development For Embedded Systems](https://cms.cispa.saarland/emsecexpdevs2023/)** [6CPs]
 
 
 
