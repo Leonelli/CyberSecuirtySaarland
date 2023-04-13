@@ -84,14 +84,17 @@
 
 ## Fourth Semester
 
-[Embedded Systems](https://www.lsf.uni-saarland.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=142954&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung) [9CPs]
-[Distributed Systems](https://www.lsf.uni-saarland.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=143171&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung) [9CPs]
+[Embedded Systems](https://cms.sic.saarland/es23/) [9CPs]
 
-[Machine Learning](https://www.lsf.uni-saarland.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=143170&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung) [9CPs]
+[Distributed Systems](https://moodle.mpi-sws.org/course/view.php?id=66) [9CPs]
 
-[IT-Forensics](https://www.lsf.uni-saarland.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=143438&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung) [6CPs]
+[Machine Learning](https://cms.sic.saarland/coreml/) [9CPs]
 
-[Attacks Against Machine Learning Models](https://www.lsf.uni-saarland.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=143568&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung) [6CPs]
+[IT-Forensics](https://cms.cispa.saarland/itf23/) [6CPs]
+
+[Attacks Against Machine Learning Models](https://cms.cispa.saarland/amlm2023/) [6CPs]
+
+[Reverse Engineering and Exploit Development For Embedded Systems](https://cms.cispa.saarland/emsecexpdevs2023/) [6CPs]
 
 
 
