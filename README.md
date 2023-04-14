@@ -94,7 +94,7 @@
 [Machine Learning](https://cms.sic.saarland/coreml/) [9CPs]
 
 
-### Advanced Lectures Cybersecurity (18/30)    
+### Advanced Lectures Cybersecurity (30/30)    
 
 **[Attacks Against Machine Learning Models](https://cms.cispa.saarland/amlm2023/)** [6CPs]
 
